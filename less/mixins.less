@@ -1,1 +1,14 @@
 // Mixins in here
+
+.sign-btn{
+    display: inline-block;
+    background-color: @button-bg;
+    color: @main-bg;
+    font-size: 18px;
+    padding: 5% 22%;
+    border-radius: 15px;
+
+    &:hover{
+        background-color: darken(@button-bg, 15%);
+    }
+}
