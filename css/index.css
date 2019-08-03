@@ -5,6 +5,7 @@
   font-size: 18px;
   padding: 5% 22%;
   border-radius: 15px;
+  cursor: pointer;
 }
 @media (max-width: 500px) {
   .sign-btn {
@@ -350,6 +351,7 @@ header .header-text {
   font-size: 18px;
   padding: 5% 22%;
   border-radius: 15px;
+  cursor: pointer;
 }
 @media (max-width: 500px) {
   .home .content-pick .destination .btn {
